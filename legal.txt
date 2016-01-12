@@ -1,0 +1,51 @@
+CONTEST DESCRIPTION:  
+
+This is a skill-based Contest.  The object of this Contest is to collect information about how users perform on HIPs with different sets of paramaters.  For purposes of this Contest, any non-zero number of HIPs solved within fifteen minutes in the Contest will be called an “entry.”  All eligible entries received will be judged using the criteria described below to determine the winners of the prizes described below. 
+
+WHAT ARE THE START AND END DATES? 
+
+This Contest starts at 12:01 a.m. Pacific Time (PT) on August 27, 2010, and ends at 11:59 p.m. PT on September 3, 2010 (“Entry Period”). 
+
+CAN I ENTER?
+
+This Contest is open to any Microsoft employee or intern; however, any person directly involved in the development or execution of this Contest is ineligible to enter Non-exempt (hourly) employees should obtain manager approval before participating. If you are a person with a disability and would like to request an accommodation, please contact t-tymene and request assistance in entering this promotion.
+
+WHAT CONSTITUTES AN ELIGIBLE ENTRY?
+
+To be eligible for judging an entry must meet the following content / technical requirements: 
+
+All entries submitted must be original work developed while an employee of Microsoft, and all entries will become the sole intellectual property of Microsoft.  By accepting a prize you agree to sign any necessary documentation required for us and our designees to make use of your entry. 
+
+HOW DO I ENTER? 
+
+In order to participate in this Contest, you must go to the Contest web site at http://jesperl-svr1/hip/ and complete and submit the online entry form, including submission of your entry, as instructed.
+
+We will only accept one (1) entry per person.
+
+WINNER SELECTION AND PRIZES
+
+On or around the close of the Entry Period, a panel of judges will review all eligible entries received and select winners of the Contest Prizes described below based upon judging criteria described below. 
+
+Judging Criteria
+
+	* 100.00%: (Number of Correct Answers)^2/Total Answers 
+
+The decisions of the judges are final and binding.  If we do not receive a sufficient number of entries meeting the entry requirements, we may, at our discretion, select fewer winners than described above.
+
+In the event of a tie between any eligible entries, an additional judge will break the tie based on the judging criteria described above.  The decisions of the judges are final and binding.  If we do not receive a sufficient number of entries meeting the entry requirements, we may, at our discretion, select fewer winners than the number of Contest Prizes described below.
+
+Contest Prizes
+
+One (1) Grand Prize.  An Xbox 360 + Kinect Retail Pre-Order.  Approximate Retail Value (ARV) $299.99.
+
+The total Approximate Retail Value (ARV) of all prizes: $299.99
+
+We will only award one (1) prize.
+
+GENERAL CONDITIONS
+
+The value of the prize is treated as ordinary income and will be taxed, if required, according to country specific tax laws.
+
+Microsoft reserves the right to substitute a prize of equal or greater value if the offered prize is unavailable.  Unless otherwise noted, all prizes are subject to their manufacturer’s warranty and / or terms and conditions.  If a selected winner cannot be contacted, is ineligible, is no longer a Microsoft employee at the time of winner notification, or fails to claim a prize within a reasonable amount of time, he or she will forfeit the prize and an alternate winner will be selected.  In the event of a dispute, the decisions of Microsoft are final.  By entering, you release and hold harmless Microsoft its subsidiaries, affiliates, directors, officers, employees and agents from any and all liability or injuries, loss or damage of any kind arising from or in connection with this Promotion or the use of any prize won.  Acceptance of the prize constitutes permission for Microsoft to use winner’s name and likeness for advertising and promotional purposes without additional compensation unless prohibited by law.  By entering this Contest, you signify your acceptance of the official rules.  All federal, state, and local laws and regulations apply.  Void where prohibited by law.
+
+ 

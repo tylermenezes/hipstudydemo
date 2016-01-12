@@ -1,0 +1,92 @@
+h1, h2, h3, h4, p, blockquote, table, div
+{
+    color: #47494a;
+    font-family: DroidSerif, Georgia, sans-serif;
+}
+
+h2
+{
+    border-bottom: 1px dotted #47494a;
+}
+
+#progress form
+{
+    float: right;
+    display: block;
+}
+
+#progress #progressbar
+{
+    width: 50%;
+    height: 10px;
+}
+
+a
+{
+    color: #ff0000;
+}
+
+a:hover
+{
+    color: #550000;
+}
+
+table
+{
+    margin: 2em;
+}
+
+th
+{
+    text-align: right;
+    padding-right: 1em;
+}
+
+blockquote
+{
+    color: #797b7c;
+}
+
+#footer, #message
+{
+    color: #abaeb0;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 11px;  
+}
+
+#message
+{
+    color: #000;
+}
+
+#bottom
+{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #fff;
+}
+
+#canvas
+{
+    padding-bottom: 3em;
+}
+
+.survey-question td,th
+{
+    text-align: center;
+    padding: .2em 1em;
+}
+
+.survey-question td
+{
+    border-bottom: 1px dashed gray;
+}
+
+.rowhead
+{
+    width:200px;
+    text-align: left !important;
+}

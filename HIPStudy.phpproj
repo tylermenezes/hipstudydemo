@@ -1,0 +1,118 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Local|PHP 5.3"
+    {
+    }
+    "Staging|PHP 5.3"
+    {
+    }
+    "Production|PHP 5.3"
+    {
+    }
+}
+"Files"
+{
+    "nexthip.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "privacy.txt"
+    {
+    "ProjRelPath" = "T"
+    }
+    "intro.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "animatedframe.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "taken_main.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "hips.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "instructions.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "study.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "auth.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "taken.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "thanks.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "main.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "black.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Interface.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "showHIP.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "staticFrame.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "BlueE.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "attackedFrame.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "solvehip.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "answerQuestions.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "questions.php"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}
